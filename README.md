@@ -29,6 +29,8 @@ This is Likai Lee from Hangzhou, China 🇨🇳. Student at 👨‍💻 Hangzhou
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=fff)
@@ -40,9 +42,6 @@ This is Likai Lee from Hangzhou, China 🇨🇳. Student at 👨‍💻 Hangzhou
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=fff)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Stylus](https://img.shields.io/badge/-Stylus-333?style=flat-square&logo=Stylus&logoColor=ffffff)
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
 ![Travis CI](https://img.shields.io/badge/-Travis%20CI-3EAAAF?style=flat-square&logo=Travis-CI&logoColor=fff)
 ## ✨ Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)
@@ -54,6 +53,8 @@ This is Likai Lee from Hangzhou, China 🇨🇳. Student at 👨‍💻 Hangzhou
 ## ⚡ Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Google](https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=Google&logoColor=ffffff)
+![Google Chrome](https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=Google-Chrome&logoColor=ffffff)
 
 ![JetBrains](http://img.shields.io/badge/-JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=ffffff)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
@@ -61,7 +62,7 @@ This is Likai Lee from Hangzhou, China 🇨🇳. Student at 👨‍💻 Hangzhou
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat-square&logo=sublime-text&logoColor=000)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=fff)
 
-![Apple](http://img.shields.io/badge/-Apple-999?style=flat-square&logo=Apple&logoColor=ffffff)
+![MacOS](http://img.shields.io/badge/-MacOS-999?style=flat-square&logo=Apple&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff)
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)
 ![CentOS](http://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)
@@ -74,7 +75,7 @@ This is Likai Lee from Hangzhou, China 🇨🇳. Student at 👨‍💻 Hangzhou
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=LikaiLee)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=LikaiLee.LikaiLee)
 <!--
 **LikaiLee/LikaiLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
