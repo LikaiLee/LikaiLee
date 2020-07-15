@@ -1,12 +1,9 @@
-### Hi there 👋
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![github stats](https://github-readme-stats.vercel.app/api?username=LikaiLee&show_icons=true)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Hi, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> 👋 !
+I'm Likai Lee, Student at 👨‍💻 Hangzhou Dianzi University pursuing M.S. degree in 💻 computer technology. I have experience in web depvelopment. Passionated about technology, communities, and everything in-between.
 
 
+## 📫 Reach me at
+[![Gmail Badge](https://img.shields.io/badge/-likailee.cn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:likailee.cn@gmail.com)](mailto:likailee.cn@gmail.com)
 
 
 <!--
