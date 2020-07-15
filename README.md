@@ -71,6 +71,7 @@ This is Likai Lee from Hangzhou, China 🇨🇳. Student at 👨‍💻 Hangzhou
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=fff)
 -->
 ## 📫 Reach me at
-[![mail](https://img.shields.io/badge/-likailee@hdu.edu.cn-c14438?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:likailee@hdu.edu.cn)](mailto:likailee@hdu.edu.cn)
+[![EDU Mail](https://img.shields.io/badge/-likailee@hdu.edu.cn-09c?style=flat-square&logo=gmail&logoColor=white&link=mailto:likailee@hdu.edu.cn)](mailto:likailee@hdu.edu.cn)
+[![Gmail](https://img.shields.io/badge/-likailee.cn@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:likailee.cn@gmail.com)](mailto:likailee.cn@gmail.com)
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
