@@ -2,7 +2,7 @@
 ## 👋 Hi, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> !
 This is Likai Lee from Hangzhou, China 🇨🇳. Student at 👨‍💻 Hangzhou Dianzi University pursuing M.S. degree in 💻 computer technology. I have experience in web depvelopment. 🌎 Passionated about technology, communities, and everything in-between.
 
-<em><p align="center"><a href="https://likailee.site/">My Personal Website Built with Hugo, Hosted on Github, DNS Cloudflare</a></p></em>
+<em><p align="center"><a href="https://likailee.site/" target="_blank">My Personal Website Built with Hugo, Hosted on Github, DNS Cloudflare</a></p></em>
 
 ## 🚀 My Tech Stack
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
@@ -75,10 +75,10 @@ This is Likai Lee from Hangzhou, China 🇨🇳. Student at 👨‍💻 Hangzhou
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=LikaiLee.LikaiLee)
 <!--
 **LikaiLee/LikaiLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=LikaiLee.LikaiLee)
 Here are some ideas to get you started:
 
 - 🔭
