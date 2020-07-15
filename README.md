@@ -24,7 +24,7 @@ This is Likai Lee from Hangzhou, China 🇨🇳. Student at 👨‍💻 Hangzhou
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=fff)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
-
+<!--
 ## 🧐 Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
@@ -69,24 +69,8 @@ This is Likai Lee from Hangzhou, China 🇨🇳. Student at 👨‍💻 Hangzhou
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=fff)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=fff)
-
+-->
 ## 📫 Reach me at
 [![Gmail Badge](https://img.shields.io/badge/-likailee.cn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:likailee.cn@gmail.com)](mailto:likailee.cn@gmail.com)
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
-
-<!--
-**LikaiLee/LikaiLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=LikaiLee.LikaiLee)
-Here are some ideas to get you started:
-
-- 🔭
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
