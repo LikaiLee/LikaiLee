@@ -62,7 +62,7 @@ This is Likai Lee from Hangzhou, China 🇨🇳. Student at 👨‍💻 Hangzhou
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat-square&logo=sublime-text&logoColor=000)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=fff)
 
-![MacOS](http://img.shields.io/badge/-MacOS-999?style=flat-square&logo=Apple&logoColor=ffffff)
+![macOS](http://img.shields.io/badge/-macOS-999?style=flat-square&logo=Apple&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff)
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)
 ![CentOS](http://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)
@@ -71,6 +71,6 @@ This is Likai Lee from Hangzhou, China 🇨🇳. Student at 👨‍💻 Hangzhou
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=fff)
 -->
 ## 📫 Reach me at
-[![Gmail Badge](https://img.shields.io/badge/-likailee.cn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:likailee.cn@gmail.com)](mailto:likailee.cn@gmail.com)
+[![mail](https://img.shields.io/badge/-likailee@hdu.edu.cn-c14438?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:likailee@hdu.edu.cn)](mailto:likailee@hdu.edu.cn)
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
