@@ -1,5 +1,5 @@
 ![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
-## 👋 Hi, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> !
+## 👋 Hi, fellow <𝚌𝚘𝚍𝚎𝚛𝚜 /> !
 This is Likai Lee from Hangzhou, China 🇨🇳. Student at 👨‍💻 Hangzhou Dianzi University pursuing M.S. degree in 💻 computer technology. I have experience in web depvelopment. 🌎 Passionated about technology, communities, and everything in-between.
 
 <em><p align="center"><a href="https://likailee.site/" target="_blank">My Personal Website Built with Hugo, Hosted on Github, DNS Cloudflare</a></p></em>
