@@ -1,4 +1,4 @@
-![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
+![](https://raw.githubusercontent.com/LikaiLee/likailee.github.io/img/20200818102030.png)
 ## 👋 Hi, fellow <𝚌𝚘𝚍𝚎𝚛𝚜 /> !
 This is Likai Lee from Hangzhou, China 🇨🇳. Student at 👨‍💻 Hangzhou Dianzi University pursuing M.S. degree in 💻 computer technology. I have experience in web depvelopment. 🌎 Passionated about technology, communities, and everything in-between.
 ## 🚀 My Tech Stack
@@ -71,4 +71,4 @@ This is Likai Lee from Hangzhou, China 🇨🇳. Student at 👨‍💻 Hangzhou
 [![EDU Mail](https://img.shields.io/badge/-likailee@hdu.edu.cn-09c?style=flat-square&logo=gmail&logoColor=white&link=mailto:likailee@hdu.edu.cn)](mailto:likailee@hdu.edu.cn)
 [![Gmail](https://img.shields.io/badge/-likailee.cn@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:likailee.cn@gmail.com)](mailto:likailee.cn@gmail.com)
 
-![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
+![bottom.png](https://raw.githubusercontent.com/LikaiLee/likailee.github.io/img/20200818102046.png)
