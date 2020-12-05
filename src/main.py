@@ -11,11 +11,13 @@ def gen_progress_bar(capacity, percent):
 	bar = int(capacity * percent)
 	return ['░' if i > bar else '█' for i in range(capacity)]
 
-FORMATTER = '%a, %d %b %Y %H:%M:%S (UTC)'
+
+BAR_CAPACITY = 50
+FORMATTER = '%a, %d %b %Y %H:%M:%S (GMT)'
 cur_year = datetime.datetime.now().year
 now = datetime.datetime.now()
 percent = get_past_percentage(cur_year, now)
-progress_bar = ''.join(gen_progress_bar(30, percent))
+progress_bar = ''.join(gen_progress_bar(BAR_CAPACITY, percent))
 update_time = now.strftime(FORMATTER) 
 
 read_me = f'''
@@ -28,7 +30,7 @@ read_me = f'''
 
 <h2 align="center"><strong>⏳ Year progress @{cur_year}</strong></h2>
 <p align="center">
-    {progress_bar} <b>{round(percent * 100, 2)}%</b>
+    {progress_bar}&nbsp;&nbsp;<b>{round(percent * 100, 2)}%</b>
 </p>
 
 <h2 align="center"><strong>😜 Here's a Joke for you</strong></h2>
@@ -39,7 +41,7 @@ read_me = f'''
 ---
 
 <a href="https://github.com/LikaiLee"><img src="https://github.com/LikaiLee/LikaiLee/workflows/Build%20README/badge.svg" alt="Build README" align="left" /></a><br />
-<p align="left">⏰ Updated on {update_time}</p>
+<p align="left">⏰ Updated at {update_time}</p>
 
 ![bottom.png](https://raw.githubusercontent.com/LikaiLee/likailee.github.io/img/20200818102046.png)
 '''
