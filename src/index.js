@@ -16,6 +16,7 @@ function generateProgressBar() {
 
 const readme = `
 ![](https://raw.githubusercontent.com/LikaiLee/likailee.github.io/img/20200818102030.png)
+
 <h2 align="center"><strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, fellow <𝚌𝚘𝚍𝚎𝚛𝚜 /> !</strong></h2>
 <p>
   This is <strong>Likai Lee</strong> from Hangzhou, China 🇨🇳. I have experience in web depvelopment.  Passionated about technology, communities, and everything in-between 🌎.
@@ -33,9 +34,10 @@ const readme = `
 
 ---
 
-<p align="right">⏰ Updated on Sat, 05 Dec 2020 10:39:09 GMT</p>
+<p align="right">⏰ Updated on ${new Date().toUTCString()}</p>
 
-<p align="right">![Build README](https://github.com/LikaiLee/LikaiLee/workflows/Build%20README/badge.svg)</p>
+<a href="https://github.com/LikaiLee"><img src="https://github.com/LikaiLee/LikaiLee/workflows/Build%20README/badge.svg" alt="Build README" align="right" /></a>
+
 ![bottom.png](https://raw.githubusercontent.com/LikaiLee/likailee.github.io/img/20200818102046.png)
 `
 
