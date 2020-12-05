@@ -1,6 +1,7 @@
 ![](https://raw.githubusercontent.com/LikaiLee/likailee.github.io/img/20200818102030.png)
 ## 👋 Hi, fellow <𝚌𝚘𝚍𝚎𝚛𝚜 /> !
 This is Likai Lee from Hangzhou, China 🇨🇳. Student at 👨‍💻 Hangzhou Dianzi University pursuing M.S. degree in 💻 computer technology. I have experience in web depvelopment. 🌎 Passionated about technology, communities, and everything in-between.
+<!--
 ## 🚀 My Tech Stack
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=ffffff)
@@ -21,6 +22,7 @@ This is Likai Lee from Hangzhou, China 🇨🇳. Student at 👨‍💻 Hangzhou
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=fff)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
+-->
 <!--
 ## 🧐 Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
