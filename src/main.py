@@ -28,7 +28,7 @@ read_me = f'''
 
 <h2 align="center"><strong>⏳ Year progress @{cur_year}</strong></h2>
 <p align="center">
-    {progress_bar}<b>{round(percent * 100, 2)}%</b>
+    {progress_bar} <b>{round(percent * 100, 2)}%</b>
 </p>
 
 <h2 align="center"><strong>😜 Here's a Joke for you</strong></h2>
