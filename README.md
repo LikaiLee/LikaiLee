@@ -3,15 +3,99 @@
   This is <strong>Likai Lee</strong> from Hangzhou, China 🇨🇳. I have experience in web depvelopment.  Passionated about technology, communities, and everything in-between 🌎.
 </p>
 
-<h2 align="center"><strong>⏳ Year progress @<!--START_SECTION:cur-year--><!--END_SECTION:cur-year--></strong></h2>
+<h2 align="center"><strong>⏳ Year progress @<!--START_SECTION:cur-year-->2020<!--END_SECTION:cur-year--></strong></h2>
 <p align="center">
-    <!--START_SECTION:year-progress-bar--><!--END_SECTION:year-progress-bar-->
+    <!--START_SECTION:year-progress-bar-->███████████████████████████████████████████████░░░<!--END_SECTION:year-progress-bar-->
     &nbsp;&nbsp;
-    <b><!--START_SECTION:year-progress-percent--><!--END_SECTION:year-progress-percent-->%</b>
+    <b><!--START_SECTION:year-progress-percent-->93.24<!--END_SECTION:year-progress-percent-->%</b>
 </p>
 
 <h2 align="center"><strong>✨ My followers</strong></h2>
 <!--START_SECTION:top-followers-->
+<table>
+<tr>
+    <td align="center">
+      <a href="https://github.com/VXenomac">
+        <img src="https://avatars1.githubusercontent.com/u/21958044?v=4" width="100px;" alt="VXenomac"/>
+      </a>
+      <br />
+      <a href="https://github.com/VXenomac">VXenomac</a>
+    </td>    <td align="center">
+      <a href="https://github.com/SiwenZheng">
+        <img src="https://avatars0.githubusercontent.com/u/16337571?v=4" width="100px;" alt="SiwenZheng"/>
+      </a>
+      <br />
+      <a href="https://github.com/SiwenZheng">SiwenZheng</a>
+    </td>    <td align="center">
+      <a href="https://github.com/Lafido">
+        <img src="https://avatars2.githubusercontent.com/u/2927304?v=4" width="100px;" alt="Lafido"/>
+      </a>
+      <br />
+      <a href="https://github.com/Lafido">Zhi Li</a>
+    </td>    <td align="center">
+      <a href="https://github.com/limingLiu-708">
+        <img src="https://avatars1.githubusercontent.com/u/49385193?v=4" width="100px;" alt="limingLiu-708"/>
+      </a>
+      <br />
+      <a href="https://github.com/limingLiu-708">limingLiu-708</a>
+    </td>    <td align="center">
+      <a href="https://github.com/ztygalaxy">
+        <img src="https://avatars2.githubusercontent.com/u/35124692?v=4" width="100px;" alt="ztygalaxy"/>
+      </a>
+      <br />
+      <a href="https://github.com/ztygalaxy">张天宇</a>
+    </td>    <td align="center">
+      <a href="https://github.com/MC01DA">
+        <img src="https://avatars1.githubusercontent.com/u/30335051?v=4" width="100px;" alt="MC01DA"/>
+      </a>
+      <br />
+      <a href="https://github.com/MC01DA">Jerffelly</a>
+    </td>    <td align="center">
+      <a href="https://github.com/MQQM">
+        <img src="https://avatars3.githubusercontent.com/u/34396349?v=4" width="100px;" alt="MQQM"/>
+      </a>
+      <br />
+      <a href="https://github.com/MQQM">Tianhao Zhang</a>
+    </td></tr>
+<tr>
+    <td align="center">
+      <a href="https://github.com/jsjzyzc">
+        <img src="https://avatars3.githubusercontent.com/u/32808240?v=4" width="100px;" alt="jsjzyzc"/>
+      </a>
+      <br />
+      <a href="https://github.com/jsjzyzc">Aniu</a>
+    </td>    <td align="center">
+      <a href="https://github.com/Ruil1n">
+        <img src="https://avatars1.githubusercontent.com/u/29536370?v=4" width="100px;" alt="Ruil1n"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ruil1n">Ruil1n</a>
+    </td>    <td align="center">
+      <a href="https://github.com/GyanH">
+        <img src="https://avatars0.githubusercontent.com/u/34931039?v=4" width="100px;" alt="GyanH"/>
+      </a>
+      <br />
+      <a href="https://github.com/GyanH">GyanH</a>
+    </td>    <td align="center">
+      <a href="https://github.com/Outside-man">
+        <img src="https://avatars1.githubusercontent.com/u/19770588?v=4" width="100px;" alt="Outside-man"/>
+      </a>
+      <br />
+      <a href="https://github.com/Outside-man">dango</a>
+    </td>    <td align="center">
+      <a href="https://github.com/heyongpeng">
+        <img src="https://avatars0.githubusercontent.com/u/26265667?v=4" width="100px;" alt="heyongpeng"/>
+      </a>
+      <br />
+      <a href="https://github.com/heyongpeng">heyongpeng</a>
+    </td>    <td align="center">
+      <a href="https://github.com/colla2me">
+        <img src="https://avatars2.githubusercontent.com/u/26298112?v=4" width="100px;" alt="colla2me"/>
+      </a>
+      <br />
+      <a href="https://github.com/colla2me">Harimoto Satoshi</a>
+    </td></tr>
+</table>
 <!--END_SECTION:top-followers-->
 <h2 align="center"><strong>😜 Here's a joke for you</strong></h2>
 <p align="center">
@@ -21,4 +105,4 @@
 ---
 
 <a href="https://github.com/LikaiLee"><img src="https://github.com/LikaiLee/LikaiLee/workflows/Build%20README/badge.svg" alt="Build README" align="left" /></a><br />
-<p align="left">⏰ Updated at <!--START_SECTION:update-time--><!--END_SECTION:update-time--></p>
+<p align="left">⏰ Updated at <!--START_SECTION:update-time-->Mon, 07 Dec 2020 06:07:26 (GMT)<!--END_SECTION:update-time--></p>
