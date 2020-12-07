@@ -12,19 +12,18 @@ FORMATTER = '%a, %d %b %Y %H:%M:%S (GMT)'
 def get_top_followers():
 	headers = {
         'Accept': 'application/vnd.github.v3+json'
-    }
-	# followers = []
-	# page = requests.get('https://api.github.com/users/LikaiLee/followers?page=0&per_page=100', headers=headers).json()
-	# for follower in page:
-	# 	follower_info = requests.get(follower['url'], headers=headers).json()
-	# 	followers.append({
-	# 		'login': follower_info['login'],
-	# 		'name': follower_info['name'] if follower_info['name'] else follower_info['login'],
-	# 		'avatar_url': follower_info['avatar_url'],
-	# 		'home': follower_info['html_url']
-	# 	})
-	# followers = followers[::-1]
-	followers = [{'login': 'VXenomac', 'name': 'VXenomac', 'avatar_url': 'https://avatars1.githubusercontent.com/u/21958044?v=4', 'home': 'https://github.com/VXenomac'}, {'login': 'SiwenZheng', 'name': 'SiwenZheng', 'avatar_url': 'https://avatars0.githubusercontent.com/u/16337571?v=4', 'home': 'https://github.com/SiwenZheng'}, {'login': 'Lafido', 'name': 'Zhi Li', 'avatar_url': 'https://avatars2.githubusercontent.com/u/2927304?v=4', 'home': 'https://github.com/Lafido'}, {'login': 'limingLiu-708', 'name': 'limingLiu-708', 'avatar_url': 'https://avatars1.githubusercontent.com/u/49385193?v=4', 'home': 'https://github.com/limingLiu-708'}, {'login': 'ztygalaxy', 'name': '张天宇', 'avatar_url': 'https://avatars2.githubusercontent.com/u/35124692?v=4', 'home': 'https://github.com/ztygalaxy'}, {'login': 'MC01DA', 'name': 'Jerffelly', 'avatar_url': 'https://avatars1.githubusercontent.com/u/30335051?v=4', 'home': 'https://github.com/MC01DA'}, {'login': 'MQQM', 'name': 'Tianhao Zhang', 'avatar_url': 'https://avatars3.githubusercontent.com/u/34396349?v=4', 'home': 'https://github.com/MQQM'}, {'login': 'jsjzyzc', 'name': 'Aniu', 'avatar_url': 'https://avatars3.githubusercontent.com/u/32808240?v=4', 'home': 'https://github.com/jsjzyzc'}, {'login': 'Ruil1n', 'name': 'Ruil1n', 'avatar_url': 'https://avatars1.githubusercontent.com/u/29536370?v=4', 'home': 'https://github.com/Ruil1n'}, {'login': 'GyanH', 'name': 'GyanH', 'avatar_url': 'https://avatars0.githubusercontent.com/u/34931039?v=4', 'home': 'https://github.com/GyanH'}, {'login': 'Outside-man', 'name': 'dango', 'avatar_url': 'https://avatars1.githubusercontent.com/u/19770588?v=4', 'home': 'https://github.com/Outside-man'}, {'login': 'heyongpeng', 'name': 'heyongpeng', 'avatar_url': 'https://avatars0.githubusercontent.com/u/26265667?v=4', 'home': 'https://github.com/heyongpeng'}, {'login': 'colla2me', 'name': 'Harimoto Satoshi', 'avatar_url': 'https://avatars2.githubusercontent.com/u/26298112?v=4', 'home': 'https://github.com/colla2me'}]
+	}
+	followers = []
+	page = requests.get('https://api.github.com/users/LikaiLee/followers?page=0&per_page=100', headers=headers).json()
+	for follower in page:
+		follower_info = requests.get(follower['url'], headers=headers).json()
+		followers.append({
+			'login': follower_info['login'],
+			'name': follower_info['name'] if follower_info['name'] else follower_info['login'],
+			'avatar_url': follower_info['avatar_url'],
+			'home': follower_info['html_url']
+		})
+	followers = followers[::-1]
 	html = '<table>\n'
 	for i in range(min(len(followers), 14)):
 		login = followers[i]['login']
