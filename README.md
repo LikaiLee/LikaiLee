@@ -1,19 +1,24 @@
-
 <h2 align="center"><strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, fellow <𝚌𝚘𝚍𝚎𝚛𝚜 /> !</strong></h2>
-<p align="center">
-  This is Likai Lee from Hangzhou, China 🇨🇳. I have experience in web depvelopment.  Passionated about technology, communities, and everything in-between 🌎.
+<p>
+  This is <strong>Likai Lee</strong> from Hangzhou, China 🇨🇳. I have experience in web depvelopment.  Passionated about technology, communities, and everything in-between 🌎.
 </p>
 
-<h2 align="center"><strong>😜 Here's a Joke for you</strong></h2>
+<h2 align="center"><strong>⏳ Year progress @<!--START_SECTION:cur-year--><!--END_SECTION:cur-year--></strong></h2>
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+    <!--START_SECTION:year-progress-bar--><!--END_SECTION:year-progress-bar-->
+    &nbsp;&nbsp;
+    <b><!--START_SECTION:year-progress-percent--><!--END_SECTION:year-progress-percent-->%</b>
 </p>
 
-⏳ Year progress { ███████████████████████████▁▁▁ } 92.74 %
+<h2 align="center"><strong>✨ My followers</strong></h2>
+<!--START_SECTION:top-followers-->
+<!--END_SECTION:top-followers-->
+<h2 align="center"><strong>😜 Here's a joke for you</strong></h2>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=vue" alt="Jokes Card" />
+</p>
 
 ---
 
-⏰ Updated on Sat, 05 Dec 2020 10:39:09 GMT
-
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
-
+<a href="https://github.com/LikaiLee"><img src="https://github.com/LikaiLee/LikaiLee/workflows/Build%20README/badge.svg" alt="Build README" align="left" /></a><br />
+<p align="left">⏰ Updated at <!--START_SECTION:update-time--><!--END_SECTION:update-time--></p>
