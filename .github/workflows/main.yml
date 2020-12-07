@@ -16,6 +16,8 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.8
+    - name: Install requests
+      run: pip install requests
     - name: Update README.md
       run: python src/main.py > README.md
     - name: Commit change & Push
