@@ -7,7 +7,7 @@
 <p align="center">
     <!--START_SECTION:year-progress-bar-->█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<!--END_SECTION:year-progress-bar-->
     &nbsp;&nbsp;
-    <b><!--START_SECTION:year-progress-percent-->8.29<!--END_SECTION:year-progress-percent-->%</b>
+    <b><!--START_SECTION:year-progress-percent-->8.56<!--END_SECTION:year-progress-percent-->%</b>
 </p>
 
 <h2 align="center"><strong>✨ My followers</strong></h2>
@@ -45,26 +45,20 @@
       <br />
       <a href="https://github.com/ztygalaxy">张天宇</a>
     </td>    <td align="center">
-      <a href="https://github.com/Jerefeny">
-        <img src="https://avatars.githubusercontent.com/u/30335051?v=4" width="100px;" alt="Jerefeny"/>
-      </a>
-      <br />
-      <a href="https://github.com/Jerefeny">Jerefeny</a>
-    </td>    <td align="center">
       <a href="https://github.com/MQQM">
         <img src="https://avatars.githubusercontent.com/u/34396349?v=4" width="100px;" alt="MQQM"/>
       </a>
       <br />
       <a href="https://github.com/MQQM">Tianhao Zhang</a>
-    </td></tr>
-<tr>
-    <td align="center">
+    </td>    <td align="center">
       <a href="https://github.com/jsjzyzc">
         <img src="https://avatars.githubusercontent.com/u/32808240?v=4" width="100px;" alt="jsjzyzc"/>
       </a>
       <br />
       <a href="https://github.com/jsjzyzc">Aniu</a>
-    </td>    <td align="center">
+    </td></tr>
+<tr>
+    <td align="center">
       <a href="https://github.com/Ruil1n">
         <img src="https://avatars.githubusercontent.com/u/29536370?v=4" width="100px;" alt="Ruil1n"/>
       </a>
@@ -105,4 +99,4 @@
 ---
 
 <a href="https://github.com/LikaiLee"><img src="https://github.com/LikaiLee/LikaiLee/workflows/Build%20README/badge.svg" alt="Build README" align="left" /></a><br />
-<p align="left">⏰ Updated at <!--START_SECTION:update-time-->Sun, 31 Jan 2021 05:48:57 (GMT)<!--END_SECTION:update-time--></p>
+<p align="left">⏰ Updated at <!--START_SECTION:update-time-->Mon, 01 Feb 2021 05:51:16 (GMT)<!--END_SECTION:update-time--></p>
