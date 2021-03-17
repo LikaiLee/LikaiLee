@@ -66,14 +66,14 @@ if __name__ == '__main__':
 	# generate progress bar according to percentage
 	progress_bar = gen_progress_bar(BAR_CAPACITY, percent)
 	# get followers
-	followers = get_top_followers()
+	# followers = get_top_followers()
 	
 	with open(readme_path, 'r') as readme:
 		content = readme.read()
 	content = re.sub(r"(?<=<!\-\-START_SECTION:cur\-year\-\->)[\s\S]*(?=<!\-\-END_SECTION:cur\-year\-\->)", f'{cur_year}', content)
 	content = re.sub(r"(?<=<!\-\-START_SECTION:year\-progress\-bar\-\->)[\s\S]*(?=<!\-\-END_SECTION:year\-progress\-bar\-\->)", f'{progress_bar}', content)
 	content = re.sub(r"(?<=<!\-\-START_SECTION:year\-progress\-percent\-\->)[\s\S]*(?=<!\-\-END_SECTION:year\-progress\-percent\-\->)", f'{round(percent * 100, 2)}', content)
-	content = re.sub(r"(?<=<!\-\-START_SECTION:top\-followers\-\->)[\s\S]*(?=<!\-\-END_SECTION:top\-followers\-\->)", f'\n{followers}\n', content)
+	# content = re.sub(r"(?<=<!\-\-START_SECTION:top\-followers\-\->)[\s\S]*(?=<!\-\-END_SECTION:top\-followers\-\->)", f'\n{followers}\n', content)
 	content = re.sub(r"(?<=<!\-\-START_SECTION:update\-time\-\->)[\s\S]*(?=<!\-\-END_SECTION:update\-time\-\->)", f'{update_time}', content)
 	with open(readme_path, 'w') as readme:
 		readme.write(content)
