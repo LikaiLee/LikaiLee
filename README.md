@@ -7,7 +7,7 @@
 <p align="center">
     <!--START_SECTION:year-progress-bar-->██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░<!--END_SECTION:year-progress-bar-->
     &nbsp;&nbsp;
-    <b><!--START_SECTION:year-progress-percent-->43.35<!--END_SECTION:year-progress-percent-->%</b>
+    <b><!--START_SECTION:year-progress-percent-->43.63<!--END_SECTION:year-progress-percent-->%</b>
 </p>
 
 <!-- <h2 align="center"><strong>✨ My followers</strong></h2> -->
@@ -21,4 +21,4 @@
 ---
 
 <a href="https://github.com/LikaiLee"><img src="https://github.com/LikaiLee/LikaiLee/workflows/Build%20README/badge.svg" alt="Build README" align="left" /></a><br />
-<p align="left">⏰ Updated at <!--START_SECTION:update-time-->Wed, 08 Jun 2022 05:40:08 (GMT)<!--END_SECTION:update-time--></p>
+<p align="left">⏰ Updated at <!--START_SECTION:update-time-->Thu, 09 Jun 2022 05:40:01 (GMT)<!--END_SECTION:update-time--></p>
