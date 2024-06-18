@@ -5,9 +5,9 @@
 
 <h2 align="center"><strong>⏳ Year progress @<!--START_SECTION:cur-year-->2024<!--END_SECTION:cur-year--></strong></h2>
 <p align="center">
-    <!--START_SECTION:year-progress-bar-->███████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░<!--END_SECTION:year-progress-bar-->
+    <!--START_SECTION:year-progress-bar-->████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░<!--END_SECTION:year-progress-bar-->
     &nbsp;&nbsp;
-    <b><!--START_SECTION:year-progress-percent-->45.97<!--END_SECTION:year-progress-percent-->%</b>
+    <b><!--START_SECTION:year-progress-percent-->46.24<!--END_SECTION:year-progress-percent-->%</b>
 </p>
 
 <!-- <h2 align="center"><strong>✨ My followers</strong></h2> -->
@@ -21,4 +21,4 @@
 ---
 
 <a href="https://github.com/LikaiLee"><img src="https://github.com/LikaiLee/LikaiLee/workflows/Build%20README/badge.svg" alt="Build README" align="left" /></a><br />
-<p align="left">⏰ Updated at <!--START_SECTION:update-time-->Mon, 17 Jun 2024 05:40:27 (GMT)<!--END_SECTION:update-time--></p>
+<p align="left">⏰ Updated at <!--START_SECTION:update-time-->Tue, 18 Jun 2024 05:38:34 (GMT)<!--END_SECTION:update-time--></p>
